@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingCart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_catlog">CatlogActivity</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="title_activity_shopping_cart">ShoppingCartActivity</string>
+	<string name="product_catlog">Product Catalog</string>
+	<string name="shopping_cart">Shopping Cart</string>
+	<string name="remove_from_cart">Remove from Cart</string>
+	<string name="checkout">Proceed to Checkout</string>
+	<string name="product_image">product_image</string>
+	<string name ="dead_alive">Dead or Alive"</string>
+    <string name="prod_desc">Product description</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="book_title">Book Title</string>
+    <string name="view_cart">View Shopping Cart></string>
+</resources>
